@@ -143,12 +143,6 @@ Charts will export to `reports/figures/` if you keep the default settings.
 
 ---
 
-## 🤝 Contributing
-
-Contributions are welcome! Please open an issue or submit a PR with a clear description and screenshot(s) of changes to figures.
-
----
-
 ## 📄 License
 
 MIT (update as needed).
